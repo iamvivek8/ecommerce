@@ -376,8 +376,10 @@ input[name="star"]:checked+label {
     font-size: 14px;
     text-transform: capitalize;
 }
-.ad-container {
 
+.ad-container {
+    width: 1440px;
+    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
